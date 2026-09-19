@@ -33,3 +33,14 @@ The API login is stored only in `.env` on the server. Never put it in frontend J
 
 ## Important
 This package is a migration foundation. Before public production use, set strong passwords, HTTPS, firewall rules, off-server backups, and verify iikoCloud permissions/organization mappings.
+
+
+## Открыть сайт
+
+После включения GitHub Pages сайт будет доступен здесь:
+
+**https://axmadoverylor0229-source.github.io/the-harrys/**
+
+[Open website](https://axmadoverylor0229-source.github.io/the-harrys/)
+
+Публикация выполняется автоматически из папки `frontend` после каждого push в `main`.
