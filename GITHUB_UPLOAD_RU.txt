@@ -1,0 +1,20 @@
+КАК ЗАГРУЗИТЬ В GITHUB
+
+1. Открой репозиторий the-harrys.
+2. Нажми Add file / Добавить файл -> Upload files / Загрузить файлы.
+3. Распакуй этот ZIP.
+4. Загрузи ВСЁ содержимое папки the-harrys-github-clean.
+5. Не создавай и не загружай папку .git.
+6. Настоящий .env с паролями и API-ключами не загружай. В репозитории должен быть только .env.example.
+7. Нажми Commit changes.
+
+Правильная структура:
+backend/
+frontend/
+nginx/
+scripts/
+.env.example
+.gitignore
+docker-compose.yml
+README.md
+DEPLOY_RU.md
